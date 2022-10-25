@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://venues.coolhunting.com/sitemap.xml
